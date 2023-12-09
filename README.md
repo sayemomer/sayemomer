@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**sayemomer/sayemomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Omer Sayem
 
-Here are some ideas to get you started:
+As an Applied Computer Science Grad Student at Concordia University, I specialize in Data, Machine Learning, and Infrastructure. With 1.3+ years of experience developing data products, I am passionate about building intelligent data-driven solutions. My work includes leveraging AWS for processing large-scale data, developing machine learning platforms, and implementing robust search engines with Elasticsearch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm diving deep into Machine Learning and aspire to create impactful data products.
+
+My experience ranges from working as a Machine Learning Engineer at Markopolo.ai, where I processed large volumes of data and developed ML platforms, to FullStack Software Engineering roles where I built efficient search services and log monitoring systems.
+
+Skilled in Kubernetes, Computational Mathematics, and Distributed Systems. Proficient in languages like Python, Java, and JavaScript, and technologies including AWS, ElasticStack, and Docker.
+
+Reach out to me at [LinkedIn](https://www.linkedin.com/in/omer-sayem) for collaborations or discussions.
+
+Happy exploring!
