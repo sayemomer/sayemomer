@@ -11,5 +11,4 @@ Hello/Bonjour! I'm Omer Sayem 👋 AI/ML Engineer, Applied Computer Science grad
 - Explainable AI
 - Cloud native microservice model
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=sayemomer.profileviews)
-
+![Profile Views](https://komarev.com/ghpvc/?username=sayemomer)
