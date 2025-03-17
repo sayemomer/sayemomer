@@ -10,3 +10,5 @@ Hello/Bonjour! I'm Omer Sayem 👋 AI/ML Engineer, Applied Computer Science grad
 - Generative Adversarial Networks
 - Explainable AI
 - Cloud native microservice model
+
+![Profile Views](https://komarev.com/ghpvc/?username=sayemomer)
